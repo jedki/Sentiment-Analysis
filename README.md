@@ -1,6 +1,7 @@
 # COVID VACCINE TWEET SENTIMENTS ANALYSIS ✨
 
-📚 **Description**:
+📚 **Description**
+==============
 This is a streamlit application aims to analyze sentiments in tweets realated to COVID vaccine usings pre-trained NLP models. The apllication allows users to input their tweet or choose from provided examples to predict the sentiment of the text. The sentiment Analysis is based on three models: BERT, dISTILBERT and ROBERTA, which are selected by the users. 
 
 📖 **Table of Contents**:
