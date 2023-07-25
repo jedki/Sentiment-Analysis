@@ -15,7 +15,7 @@ This is a streamlit application aims to analyze sentiments in tweets realated to
 •	Acknowledgement 
 •	Contacts 
 
-PREREQUISITES
+Prerequisites
 ================
 Before running the application, ensure you have the following dependencies installed:
 •	Python 3.6 or higher
@@ -25,26 +25,26 @@ Before running the application, ensure you have the following dependencies insta
 •	Transformers 
 •	Scipy
 
-HOW TO USE
+How to use 
 ==================
 •	Clone the repository and navigate to the project directory.
 •	Run the streamlit application using the following command: - streamlit run app.py.
 The application will open in your default web browser.
 
-CUSTOMIZATION
+Customization 
 ==================
 To personalize the application further you can modify the following aspects. 
 
-BACKGROUND COLOR
+Background color
 =================
 The background color is set to grey. you can change it by updating the custom_css variable in the code. 
 
-SENTIMENT ANALYSIS
+Sentiment analysis
 ==================
 Once the user submits their inputs and selects a model, the application processes the text inputs using the selected model and displays the sentiment analysis results. The model predicts whether the input text reflects a positive, negative, or neutral sentiment towards Covid vaccines. 
 The sentiment analysis is done by leveraging the Hugging Face Transformers library. The pipeline function is used to easily load the appropriate model for the selected sentiment classification task.
 
-CONCLUSION
+Conclusion
 ================
 The streamlit application serves as a powerful tool to quickly analyze sentiments in Covid vaccine related tweets using state of the art NLP models, by providing friendly interface and pre-trained models. It also allows users to gain insight into public sentiment towards COVID vaccines in real-time additionally, the code can be easily customized and extended to incorparate more models or different analysis tasks in the future. 
 
