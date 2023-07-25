@@ -62,4 +62,4 @@ This project is developed and maintained by:
 - Felix Kiprotich
 - Silvester Ampomah💡
 - Kingsley Yaw Siedu
-Feel free to reach out to us with any questions or feedback!
+- Feel free to reach out to us with any questions or feedback!
