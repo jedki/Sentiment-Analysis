@@ -18,7 +18,7 @@ This is a streamlit application aims to analyze sentiments in tweets realated to
 Prerequisites
 ================
 Before running the application, ensure you have the following dependencies installed:
-----------
+#
 •	Python 3.6 or higher
 •	Numpy 
 •	Pandas 
